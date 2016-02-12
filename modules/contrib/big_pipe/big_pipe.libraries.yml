@@ -1,0 +1,11 @@
+big_pipe:
+  version: VERSION
+  js:
+    js/big_pipe.js: {}
+  drupalSettings:
+    bigPipePlaceholders: []
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupal.ajax
+    - core/drupalSettings

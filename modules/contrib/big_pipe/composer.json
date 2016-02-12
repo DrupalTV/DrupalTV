@@ -1,0 +1,24 @@
+{
+  "name": "drupal/big_pipe",
+  "description": "Sends pages in a way that allows browsers to show them much faster. Uses the BigPipe technique.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "keywords": ["performance", "scalability", "BigPipe"],
+  "homepage": "https://www.drupal.org/project/big_pipe",
+  "authors": [
+    {
+      "name": "Wim Leers"
+    },
+    {
+      "name": "Fabian Franz"
+    },
+    {
+      "name": "See other contributors",
+      "homepage": "https://www.drupal.org/node/2601628/committers"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/big_pipe"
+  },
+  "require": { }
+}
